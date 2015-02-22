@@ -2,7 +2,7 @@
 CS445
 
 """
-cs445 - Spring 2015 Homework #1 - Inheritance, Abstraction, and Polymorphism
+
 ================================================================================
 
 Compiling:
